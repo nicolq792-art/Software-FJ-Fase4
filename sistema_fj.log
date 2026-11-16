@@ -1,0 +1,17 @@
+2026-11-16 16:34:44,914 - INFO - Cliente registrado: Nicol Quintana (1002345678)
+2026-11-16 16:34:44,915 - ERROR - Registro fallido: nombre vacío ('').
+2026-11-16 16:34:44,915 - ERROR - Error registrando cliente: El nombre del cliente no puede estar vacío.
+2026-11-16 16:34:44,916 - INFO - Cliente registrado: Carlos Mendoza (1098765432)
+2026-11-16 16:34:44,917 - INFO - Servicio agregado: Sala de Juntas Ejecutiva
+2026-11-16 16:34:44,918 - INFO - Servicio agregado: MacBook Pro M3
+2026-11-16 16:34:44,919 - ERROR - Tarifa inválida (-45000.0) al intentar crear el servicio 'Asesoría Cloud'.
+2026-11-16 16:34:44,920 - INFO - Servicio agregado: Consultoría en Inteligencia Artificial
+2026-11-16 16:34:44,922 - INFO - [Reserva RES-001] CONFIRMADA para Nicol Quintana. Total: $214,200.00
+2026-11-16 16:34:44,923 - INFO - [Auditoría RES-001] Proceso terminado. Estado final: CONFIRMADA
+2026-11-16 16:34:44,924 - INFO - [Reserva RES-002] CONFIRMADA para Carlos Mendoza. Total: $303,450.00
+2026-11-16 16:34:44,924 - INFO - [Auditoría RES-002] Proceso terminado. Estado final: CONFIRMADA
+2026-11-16 16:34:44,924 - ERROR - [Reserva RES-003] Fallo en servicio: El servicio 'MacBook Pro M3' no está disponible.
+2026-11-16 16:34:44,925 - INFO - [Auditoría RES-003] Proceso terminado. Estado final: FALLIDA
+2026-11-16 16:34:44,925 - ERROR - [Reserva RES-004] Fallo en servicio: La reserva de salas debe ser entre 1 y 12 horas.
+2026-11-16 16:34:44,925 - INFO - [Auditoría RES-004] Proceso terminado. Estado final: FALLIDA
+2026-11-16 16:34:44,926 - INFO - [Reserva RES-002] Cancelada exitosamente.
